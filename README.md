@@ -1,2 +1,24 @@
 # weather-app
-A weather app made using vue.js. This fetches the current weather data from 'OpenWeather' site using API key generated in the same site in JSON format. The current weather, time, humidity, feels like, min temp and max temp are displayed with the description &amp; description icon. Background image changes according to description.
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
